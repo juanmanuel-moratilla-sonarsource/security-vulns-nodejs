@@ -13,7 +13,6 @@ var config_local = {
 
 
 
-
 var config_devel = {
     // Customer module configs
     "db": {
